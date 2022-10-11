@@ -1,0 +1,227 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    width: 100%;
+
+    background-position: center;
+    background-size: cover;
+    
+}
+
+.navbar{
+    width: 1200px;
+    height: 75px;
+    margin: auto;
+}
+
+.icon{
+    margin-top: -50px;
+    width: 200px;
+    float: left;
+    height: 70px;
+    
+}
+.icon img{
+    width: 170px;
+    float: left;
+    margin-left: 0px;
+    padding-left: 5%;
+    padding-top: 2%;
+}
+
+.menu{
+    width: 400px;
+    float: left;
+    height: 70px;
+    margin-top: 20px;
+}
+
+ul{
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul li{
+    list-style: none;
+    margin-left: 62px;
+    margin-top: 27px;
+    font-size: 14px;
+   
+}
+
+ul li a{
+    text-decoration: none;
+    color: rgb(23, 78, 216);
+    font-family: Arial;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+    
+}
+
+ul li a:hover{
+    color: #ff7200;
+}
+
+.essai{
+    width: 330px;
+    float: right;
+    margin-right: -200px;
+    margin-top: 20px;
+}
+
+
+.btn{
+    font-family: 'Arial';
+    width: 100px;
+    height: 40px;
+    background: #1B68E9;
+    border: 2px solid #1B68E9;
+    margin-top: 15px;
+    color: #fff;
+    font-size: 15px;
+    border-radius: 5px;
+    transition: 0.2s ease;
+    cursor: pointer;
+}
+.fa-user{
+padding-right: 20px;
+color:#1B68E9;
+
+}
+
+.tatsu-KMaa4YEp2 .tatsu-section-pad {padding : 90px 0px 90px 0px;}.tatsu-KMaa4YEp2 .tatsu-section-overlay {mix-blend-mode : normal;}.tatsu-mU8mI4quU1 > .tatsu-row-wrap-inner {width : 100%;}.tatsu-mU8mI4quU1 > .tatsu-row-wrap-inner > .tatsu-row-overlay {mix-blend-mode : normal;}.tatsu-Wgok0nRh6R.tatsu-column > .tatsu-column-inner > .tatsu-column-overlay {mix-blend-mode : normal;}.tatsu-row-wrap-inner > .tatsu-row > .tatsu-Wgok0nRh6R.tatsu-column {width : 100%;}.tatsu-RhSu3SDA_- .tatsu-title {color : #182433;width : 100%;}.tatsu-RhSu3SDA_- .tatsu-title-inner {color : #182433;}.tatsu-RhSu3SDA_- {text-align : center;}.tatsu-N680aob62I .tatsu-inline-text-inner {width : 100%;text-align : center;}.tatsu-N680aob62I {margin : 0px 0px 50px 0px;}.tatsu-N6VR7Go8tF .tatsu-pricing-table-tab {color : #ccc;border-image : none;border-color : #ccc;}.tatsu-N6VR7Go8tF .tatsu-pricing-table-tab-active {background : #1B68E9;color : #fff;}.tatsu-N6VR7Go8tF .tatsu-pricing-table-columns {margin : 0 -10px;}.tatsu-N6VR7Go8tF .tatsu-pricing-col-wrap {padding : 0 10px;}.tatsu-N6VR7Go8tF {margin : 0px 0px 0px 0px;}.tatsu-7qo8YRCOMk .tatsu-pricing-col {border-width : 2px;border-image : none;border-color : #1B68E9;text-align : left;border-radius : 8px;padding : 50px 25px 50px 25px;}.tatsu-yJNAutI3XC.tatsu-pricing-title {color : #1B68E9;margin-bottom : 30px;}.tatsu-hglkWONxWu.tatsu-pricing-rate-wrap {color : #000;margin-bottom : 5px;}.tatsu-hglkWONxWu .tatsu-pricing-rate-prefix {font-size : 24px;}.tatsu-dl0yxyM9y2.tatsu-pricing-text {color : #1B68E9;margin-bottom : 8px;}.tatsu-dvTr66H3DR .tatsu-pricing-button {background : #1B68E9;color : #fff;}.tatsu-dvTr66H3DR .tatsu-pricing-button:hover {color : #fff;}.tatsu-y6m1Ln70Ho.tatsu-pricing-text {color : rgba(245,166,35,1);margin-bottom : 30px;}.tatsu-DcuaCwp0oT.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-SCHSTjcSn7.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-06XKmdvt-W.tatsu-pricing-icard {margin-bottom : 0px;}.tatsu-06XKmdvt-W.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-zEKdpmqs3Uv .tatsu-pricing-col {border-width : 2px;border-image : none;border-color : #1B68E9;text-align : left;border-radius : 8px;padding : 50px 25px 50px 25px;}.tatsu-ip530UzHN-2.tatsu-pricing-title {color : #1B68E9;margin-bottom : 30px;}.tatsu-235NzY5l-pw.tatsu-pricing-rate-wrap {color : #000;margin-bottom : 5px;}.tatsu-235NzY5l-pw .tatsu-pricing-rate-prefix {font-size : 24px;}.tatsu-pXgelGUnroV.tatsu-pricing-text {color : #1B68E9;margin-bottom : 8px;}.tatsu-RkkfLsuUnM3 .tatsu-pricing-button {background : #1B68E9;color : #fff;}.tatsu-RkkfLsuUnM3 .tatsu-pricing-button:hover {color : #fff;}.tatsu-D8ycduZZe3d.tatsu-pricing-text {color : rgba(245,166,35,1);margin-bottom : 30px;}.tatsu-6A8SHy-zCHN.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-Axp9BpPKgma.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-W24da7RxVH4.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-jjIv0Y0s4jg.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-XapJMjT0f.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-3c1BjzONh.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-kiiT89WgX.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-8jI59rc84.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-fh77jgrHh.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-PlJdiaOei.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-KlZTuIGiq.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-aPwwgvNQUA9 .tatsu-pricing-col {border-width : 2px;border-image : none;border-color : #1B68E9;text-align : left;border-radius : 8px;padding : 50px 25px 50px 25px;}.tatsu-e1Qy0eAeSkK.tatsu-pricing-title {color : #1B68E9;margin-bottom : 30px;}.tatsu-s8iY9zDR7uC.tatsu-pricing-rate-wrap {color : #000;margin-bottom : 5px;}.tatsu-s8iY9zDR7uC .tatsu-pricing-rate-prefix {font-size : 24px;}.tatsu-UiXpC5ueilA.tatsu-pricing-text {color : #1B68E9;margin-bottom : 8px;}.tatsu-nVNjvty7cbl .tatsu-pricing-button {background : #1B68E9;color : #fff;}.tatsu-nVNjvty7cbl .tatsu-pricing-button:hover {color : #fff;}.tatsu-V4zW8Wt0JJ5.tatsu-pricing-text {color : rgba(245,166,35,1);margin-bottom : 30px;}.tatsu-LlpvoTqynAi.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-SSA1peEyG_J.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-wUqHkJU7EPf.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-MUD34_6hvIu.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-TIWyCRg4RN1.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-GusJlk1Dq.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-7bK16Hl6D.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-gKW2_7wsO.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-UK4yGShhd.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-KkEZcQq6S.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-5UdSHikA0.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-ckBHT5AGD.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-a8NUabldX.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-_sJF0fgeJ.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}@media only screen and (max-width : 1377px) {.tatsu-KMaa4YEp2 .tatsu-section-pad {padding : 90px 0px 90px 0px;}.tatsu-KMaa4YEp2 .tatsu-section-overlay {mix-blend-mode : normal;}.tatsu-mU8mI4quU1 > .tatsu-row-wrap-inner {width : 100%;}.tatsu-mU8mI4quU1 > .tatsu-row-wrap-inner > .tatsu-row-overlay {mix-blend-mode : normal;}.tatsu-Wgok0nRh6R.tatsu-column > .tatsu-column-inner > .tatsu-column-pad-wrap > .tatsu-column-pad {padding : 0px 0px 0px 0px;}.tatsu-Wgok0nRh6R.tatsu-column {transform : translate3d(0px,0px, 0);}.tatsu-Wgok0nRh6R.tatsu-column > .tatsu-column-inner > .tatsu-column-overlay {mix-blend-mode : normal;}.tatsu-row-wrap-inner > .tatsu-row > .tatsu-Wgok0nRh6R.tatsu-column {width : 100%;}.tatsu-RhSu3SDA_- .tatsu-title {color : #182433;width : 100%;}.tatsu-RhSu3SDA_- .tatsu-title-inner {color : #182433;}.tatsu-RhSu3SDA_- {text-align : center;}.tatsu-N680aob62I .tatsu-inline-text-inner {width : 100%;text-align : center;}.tatsu-N680aob62I {margin : 0px 0px 50px 0px;}.tatsu-N6VR7Go8tF .tatsu-pricing-table-tab {color : #ccc;border-image : none;border-color : #ccc;}.tatsu-N6VR7Go8tF .tatsu-pricing-table-tab-active {background : #1B68E9;color : #fff;}.tatsu-N6VR7Go8tF .tatsu-pricing-table-columns {margin : 0 -10px;}.tatsu-N6VR7Go8tF .tatsu-pricing-col-wrap {padding : 0 10px;}.tatsu-N6VR7Go8tF {margin : 0px 0px 0px 0px;}.tatsu-7qo8YRCOMk .tatsu-pricing-col {border-width : 2px;border-image : none;border-color : #1B68E9;text-align : left;border-radius : 8px;padding : 50px 25px 50px 25px;}.tatsu-yJNAutI3XC.tatsu-pricing-title {color : #1B68E9;margin-bottom : 30px;}.tatsu-hglkWONxWu.tatsu-pricing-rate-wrap {color : #000;margin-bottom : 5px;}.tatsu-hglkWONxWu .tatsu-pricing-rate-prefix {font-size : 24px;}.tatsu-dl0yxyM9y2.tatsu-pricing-text {color : #1B68E9;margin-bottom : 8px;}.tatsu-dvTr66H3DR .tatsu-pricing-button {background : #1B68E9;color : #fff;}.tatsu-dvTr66H3DR .tatsu-pricing-button:hover {color : #fff;}.tatsu-y6m1Ln70Ho.tatsu-pricing-text {color : rgba(245,166,35,1);margin-bottom : 30px;}.tatsu-DcuaCwp0oT.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-SCHSTjcSn7.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-06XKmdvt-W.tatsu-pricing-icard {margin-bottom : 0px;}.tatsu-06XKmdvt-W.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-zEKdpmqs3Uv .tatsu-pricing-col {border-width : 2px;border-image : none;border-color : #1B68E9;text-align : left;border-radius : 8px;padding : 50px 25px 50px 25px;}.tatsu-ip530UzHN-2.tatsu-pricing-title {color : #1B68E9;margin-bottom : 30px;}.tatsu-235NzY5l-pw.tatsu-pricing-rate-wrap {color : #000;margin-bottom : 5px;}.tatsu-235NzY5l-pw .tatsu-pricing-rate-prefix {font-size : 24px;}.tatsu-pXgelGUnroV.tatsu-pricing-text {color : #1B68E9;margin-bottom : 8px;}.tatsu-RkkfLsuUnM3 .tatsu-pricing-button {background : #1B68E9;color : #fff;}.tatsu-RkkfLsuUnM3 .tatsu-pricing-button:hover {color : #fff;}.tatsu-D8ycduZZe3d.tatsu-pricing-text {color : rgba(245,166,35,1);margin-bottom : 30px;}.tatsu-6A8SHy-zCHN.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-Axp9BpPKgma.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-W24da7RxVH4.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-jjIv0Y0s4jg.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-XapJMjT0f.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-3c1BjzONh.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-kiiT89WgX.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-8jI59rc84.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-fh77jgrHh.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-PlJdiaOei.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-KlZTuIGiq.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-aPwwgvNQUA9 .tatsu-pricing-col {border-width : 2px;border-image : none;border-color : #1B68E9;text-align : left;border-radius : 8px;padding : 50px 25px 50px 25px;}.tatsu-e1Qy0eAeSkK.tatsu-pricing-title {color : #1B68E9;margin-bottom : 30px;}.tatsu-s8iY9zDR7uC.tatsu-pricing-rate-wrap {color : #000;margin-bottom : 5px;}.tatsu-s8iY9zDR7uC .tatsu-pricing-rate-prefix {font-size : 24px;}.tatsu-UiXpC5ueilA.tatsu-pricing-text {color : #1B68E9;margin-bottom : 8px;}.tatsu-nVNjvty7cbl .tatsu-pricing-button {background : #1B68E9;color : #fff;}.tatsu-nVNjvty7cbl .tatsu-pricing-button:hover {color : #fff;}.tatsu-V4zW8Wt0JJ5.tatsu-pricing-text {color : rgba(245,166,35,1);margin-bottom : 30px;}.tatsu-LlpvoTqynAi.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-SSA1peEyG_J.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-wUqHkJU7EPf.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-MUD34_6hvIu.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-TIWyCRg4RN1.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-GusJlk1Dq.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-7bK16Hl6D.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-gKW2_7wsO.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-UK4yGShhd.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-KkEZcQq6S.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-5UdSHikA0.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-ckBHT5AGD.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-a8NUabldX.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-_sJF0fgeJ.tatsu-pricing-icard svg {color : rgba(245,166,35,1);} }@media only screen and (max-width : 1024px) {.tatsu-KMaa4YEp2 .tatsu-section-pad {padding : 90px 0px 90px 0px;}.tatsu-KMaa4YEp2 .tatsu-section-overlay {mix-blend-mode : normal;}.tatsu-mU8mI4quU1 > .tatsu-row-wrap-inner {width : 100%;}.tatsu-mU8mI4quU1 > .tatsu-row-wrap-inner > .tatsu-row-overlay {mix-blend-mode : normal;}.tatsu-Wgok0nRh6R.tatsu-column > .tatsu-column-inner > .tatsu-column-pad-wrap > .tatsu-column-pad {padding : 0px 0px 0px 0px;}.tatsu-Wgok0nRh6R.tatsu-column {transform : translate3d(0px,0px, 0);}.tatsu-Wgok0nRh6R.tatsu-column > .tatsu-column-inner > .tatsu-column-overlay {mix-blend-mode : normal;}.tatsu-row-wrap-inner > .tatsu-row > .tatsu-Wgok0nRh6R.tatsu-column {width : 100%;}.tatsu-RhSu3SDA_- .tatsu-title {color : #182433;width : 100%;}.tatsu-RhSu3SDA_- .tatsu-title-inner {color : #182433;}.tatsu-RhSu3SDA_- {text-align : center;}.tatsu-N680aob62I .tatsu-inline-text-inner {width : 100%;text-align : center;}.tatsu-N680aob62I {margin : 0px 0px 50px 0px;}.tatsu-N6VR7Go8tF .tatsu-pricing-table-tab {color : #ccc;border-image : none;border-color : #ccc;}.tatsu-N6VR7Go8tF .tatsu-pricing-table-tab-active {background : #1B68E9;color : #fff;}.tatsu-N6VR7Go8tF .tatsu-pricing-table-columns {margin : 0 -10px;}.tatsu-N6VR7Go8tF .tatsu-pricing-col-wrap {padding : 0 10px;}.tatsu-N6VR7Go8tF {margin : 0px 0px 0px 0px;}.tatsu-7qo8YRCOMk .tatsu-pricing-col {border-width : 2px;border-image : none;border-color : #1B68E9;text-align : left;border-radius : 8px;padding : 50px 25px 50px 25px;}.tatsu-yJNAutI3XC.tatsu-pricing-title {color : #1B68E9;margin-bottom : 30px;}.tatsu-hglkWONxWu.tatsu-pricing-rate-wrap {color : #000;margin-bottom : 5px;}.tatsu-hglkWONxWu .tatsu-pricing-rate-prefix {font-size : 24px;}.tatsu-dl0yxyM9y2.tatsu-pricing-text {color : #1B68E9;margin-bottom : 8px;}.tatsu-dvTr66H3DR .tatsu-pricing-button {background : #1B68E9;color : #fff;}.tatsu-dvTr66H3DR .tatsu-pricing-button:hover {color : #fff;}.tatsu-y6m1Ln70Ho.tatsu-pricing-text {color : rgba(245,166,35,1);margin-bottom : 30px;}.tatsu-DcuaCwp0oT.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-SCHSTjcSn7.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-06XKmdvt-W.tatsu-pricing-icard {margin-bottom : 0px;}.tatsu-06XKmdvt-W.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-zEKdpmqs3Uv .tatsu-pricing-col {border-width : 2px;border-image : none;border-color : #1B68E9;text-align : left;border-radius : 8px;padding : 50px 25px 50px 25px;}.tatsu-ip530UzHN-2.tatsu-pricing-title {color : #1B68E9;margin-bottom : 30px;}.tatsu-235NzY5l-pw.tatsu-pricing-rate-wrap {color : #000;margin-bottom : 5px;}.tatsu-235NzY5l-pw .tatsu-pricing-rate-prefix {font-size : 24px;}.tatsu-pXgelGUnroV.tatsu-pricing-text {color : #1B68E9;margin-bottom : 8px;}.tatsu-RkkfLsuUnM3 .tatsu-pricing-button {background : #1B68E9;color : #fff;}.tatsu-RkkfLsuUnM3 .tatsu-pricing-button:hover {color : #fff;}.tatsu-D8ycduZZe3d.tatsu-pricing-text {color : rgba(245,166,35,1);margin-bottom : 30px;}.tatsu-6A8SHy-zCHN.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-Axp9BpPKgma.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-W24da7RxVH4.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-jjIv0Y0s4jg.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-XapJMjT0f.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-3c1BjzONh.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-kiiT89WgX.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-8jI59rc84.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-fh77jgrHh.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-PlJdiaOei.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-KlZTuIGiq.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-aPwwgvNQUA9 .tatsu-pricing-col {border-width : 2px;border-image : none;border-color : #1B68E9;text-align : left;border-radius : 8px;padding : 50px 25px 50px 25px;}.tatsu-e1Qy0eAeSkK.tatsu-pricing-title {color : #1B68E9;margin-bottom : 30px;}.tatsu-s8iY9zDR7uC.tatsu-pricing-rate-wrap {color : #000;margin-bottom : 5px;}.tatsu-s8iY9zDR7uC .tatsu-pricing-rate-prefix {font-size : 24px;}.tatsu-UiXpC5ueilA.tatsu-pricing-text {color : #1B68E9;margin-bottom : 8px;}.tatsu-nVNjvty7cbl .tatsu-pricing-button {background : #1B68E9;color : #fff;}.tatsu-nVNjvty7cbl .tatsu-pricing-button:hover {color : #fff;}.tatsu-V4zW8Wt0JJ5.tatsu-pricing-text {color : rgba(245,166,35,1);margin-bottom : 30px;}.tatsu-LlpvoTqynAi.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-SSA1peEyG_J.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-wUqHkJU7EPf.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-MUD34_6hvIu.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-TIWyCRg4RN1.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-GusJlk1Dq.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-7bK16Hl6D.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-gKW2_7wsO.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-UK4yGShhd.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-KkEZcQq6S.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-5UdSHikA0.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-ckBHT5AGD.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-a8NUabldX.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-_sJF0fgeJ.tatsu-pricing-icard svg {color : rgba(245,166,35,1);} }@media only screen and (max-width : 767px) {.tatsu-KMaa4YEp2 .tatsu-section-pad {padding : 90px 0px 90px 0px;}.tatsu-KMaa4YEp2 .tatsu-section-overlay {mix-blend-mode : normal;}.tatsu-mU8mI4quU1 > .tatsu-row-wrap-inner {width : 100%;}.tatsu-mU8mI4quU1 > .tatsu-row-wrap-inner > .tatsu-row-overlay {mix-blend-mode : normal;}.tatsu-Wgok0nRh6R.tatsu-column > .tatsu-column-inner > .tatsu-column-pad-wrap > .tatsu-column-pad {padding : 0px 0px 0px 0px;}.tatsu-Wgok0nRh6R.tatsu-column {transform : translate3d(0px,0px, 0);}.tatsu-Wgok0nRh6R.tatsu-column > .tatsu-column-inner > .tatsu-column-overlay {mix-blend-mode : normal;}.tatsu-row-wrap-inner > .tatsu-row > .tatsu-Wgok0nRh6R.tatsu-column {width : 100%;}.tatsu-RhSu3SDA_- .tatsu-title {color : #182433;width : 100%;}.tatsu-RhSu3SDA_- .tatsu-title-inner {color : #182433;}.tatsu-RhSu3SDA_- {text-align : center;}.tatsu-N680aob62I .tatsu-inline-text-inner {width : 100%;text-align : center;}.tatsu-N680aob62I {margin : 0px 0px 50px 0px;}.tatsu-N6VR7Go8tF .tatsu-pricing-table-tab {color : #ccc;border-image : none;border-color : #ccc;}.tatsu-N6VR7Go8tF .tatsu-pricing-table-tab-active {background : #1B68E9;color : #fff;}.tatsu-N6VR7Go8tF .tatsu-pricing-table-columns {margin : 0 -10px;}.tatsu-N6VR7Go8tF .tatsu-pricing-col-wrap {padding : 0 10px;}.tatsu-N6VR7Go8tF {margin : 0px 0px 0px 0px;}.tatsu-7qo8YRCOMk .tatsu-pricing-col {border-width : 2px;border-image : none;border-color : #1B68E9;text-align : left;border-radius : 8px;padding : 50px 25px 50px 25px;}.tatsu-yJNAutI3XC.tatsu-pricing-title {color : #1B68E9;margin-bottom : 30px;}.tatsu-hglkWONxWu.tatsu-pricing-rate-wrap {color : #000;margin-bottom : 5px;}.tatsu-hglkWONxWu .tatsu-pricing-rate-prefix {font-size : 24px;}.tatsu-dl0yxyM9y2.tatsu-pricing-text {color : #1B68E9;margin-bottom : 8px;}.tatsu-dvTr66H3DR .tatsu-pricing-button {background : #1B68E9;color : #fff;}.tatsu-dvTr66H3DR .tatsu-pricing-button:hover {color : #fff;}.tatsu-y6m1Ln70Ho.tatsu-pricing-text {color : rgba(245,166,35,1);margin-bottom : 30px;}.tatsu-DcuaCwp0oT.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-SCHSTjcSn7.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-06XKmdvt-W.tatsu-pricing-icard {margin-bottom : 0px;}.tatsu-06XKmdvt-W.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-zEKdpmqs3Uv .tatsu-pricing-col {border-width : 2px;border-image : none;border-color : #1B68E9;text-align : left;border-radius : 8px;padding : 50px 25px 50px 25px;}.tatsu-ip530UzHN-2.tatsu-pricing-title {color : #1B68E9;margin-bottom : 30px;}.tatsu-235NzY5l-pw.tatsu-pricing-rate-wrap {color : #000;margin-bottom : 5px;}.tatsu-235NzY5l-pw .tatsu-pricing-rate-prefix {font-size : 24px;}.tatsu-pXgelGUnroV.tatsu-pricing-text {color : #1B68E9;margin-bottom : 8px;}.tatsu-RkkfLsuUnM3 .tatsu-pricing-button {background : #1B68E9;color : #fff;}.tatsu-RkkfLsuUnM3 .tatsu-pricing-button:hover {color : #fff;}.tatsu-D8ycduZZe3d.tatsu-pricing-text {color : rgba(245,166,35,1);margin-bottom : 30px;}.tatsu-6A8SHy-zCHN.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-Axp9BpPKgma.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-W24da7RxVH4.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-jjIv0Y0s4jg.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-XapJMjT0f.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-3c1BjzONh.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-kiiT89WgX.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-8jI59rc84.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-fh77jgrHh.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-PlJdiaOei.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-KlZTuIGiq.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-aPwwgvNQUA9 .tatsu-pricing-col {border-width : 2px;border-image : none;border-color : #1B68E9;text-align : left;border-radius : 8px;padding : 50px 25px 50px 25px;}.tatsu-e1Qy0eAeSkK.tatsu-pricing-title {color : #1B68E9;margin-bottom : 30px;}.tatsu-s8iY9zDR7uC.tatsu-pricing-rate-wrap {color : #000;margin-bottom : 5px;}.tatsu-s8iY9zDR7uC .tatsu-pricing-rate-prefix {font-size : 24px;}.tatsu-UiXpC5ueilA.tatsu-pricing-text {color : #1B68E9;margin-bottom : 8px;}.tatsu-nVNjvty7cbl .tatsu-pricing-button {background : #1B68E9;color : #fff;}.tatsu-nVNjvty7cbl .tatsu-pricing-button:hover {color : #fff;}.tatsu-V4zW8Wt0JJ5.tatsu-pricing-text {color : rgba(245,166,35,1);margin-bottom : 30px;}.tatsu-LlpvoTqynAi.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-SSA1peEyG_J.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-wUqHkJU7EPf.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-MUD34_6hvIu.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-TIWyCRg4RN1.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-GusJlk1Dq.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-7bK16Hl6D.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-gKW2_7wsO.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-UK4yGShhd.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-KkEZcQq6S.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-5UdSHikA0.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-ckBHT5AGD.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-a8NUabldX.tatsu-pricing-icard svg {color : rgba(245,166,35,1);}.tatsu-_sJF0fgeJ.tatsu-pricing-icard svg {color : rgba(245,166,35,1);} }h1, .typo-h1 {font-family:"Inter",sans-serif;font-weight:700;font-size:55px;line-height:1.25em;letter-spacing:0px;text-transform:none;color:#182433;}h2, .typo-h2 {font-family:"Inter",sans-serif;font-weight:700;font-size:40px;line-height:1.25em;letter-spacing:0px;text-transform:none;color:#182433;}.typo-testimonial {font-family:"Inter",sans-serif;font-weight:500;font-size:26px;line-height:1.5em;letter-spacing:0px;text-transform:none;color:#182433;}h3, .typo-h3 {font-family:"Inter",sans-serif;font-weight:700;font-size:34px;line-height:1.25em;letter-spacing:0px;text-transform:none;color:#182433;}.tatsu-button-wrap, .tatsu-pricing-button, .typo-button {font-family:"Inter",sans-serif;font-weight:600;font-size:14px;line-height:1em;letter-spacing:1px;text-transform:uppercase;color:#ffffff;}h4, .typo-h4 {font-family:"Inter",sans-serif;font-weight:600;font-size:26px;line-height:1.25em;letter-spacing:0px;text-transform:none;color:#182433;}h5, .typo-h5 {font-family:"Inter",sans-serif;font-weight:600;font-size:20px;line-height:1.5em;letter-spacing:0px;text-transform:none;color:#182433;}h6, .typo-h6 {font-family:"Inter",sans-serif;font-weight:600;font-size:18px;line-height:1.5em;letter-spacing:0px;text-transform:none;color:#182433;}caption, .typo-caption {font-family:"Inter",sans-serif;font-weight:600;font-size:13px;line-height:1.2em;letter-spacing:1px;text-transform:uppercase;color:rgba(60,72,84,0.8);}body, .typo-body {font-family:"Inter",sans-serif;font-weight:400;font-size:17px;line-height:1.5em;letter-spacing:0px;text-transform:none;color:rgba(60,72,84,0.8);}@media only screen and (max-width: 767px) {h1, .typo-h1 {font-size:42px;}h2, .typo-h2 {font-size:36px;}h3, .typo-h3 {font-size:30px;}}@font-face {
+        font-family: 'Inter';
+        src: url('https://assets.swipepages.com/fonts/inter/regular/Inter-Regular.woff') format('woff'), url('https://assets.swipepages.com/fonts/inter/regular/Inter-Regular.eot?#iefix') format('embedded-opentype'),  url('https://assets.swipepages.com/fonts/inter/regular/Inter-Regular.otf')  format('opentype'),
+                   url('https://assets.swipepages.com/fonts/inter/regular/Inter-Regular.ttf')  format('truetype'), url('https://assets.swipepages.com/fonts/inter/regular/Inter-Regular.svg#Inter-Regular') format('svg');
+        font-weight: 400;
+        font-style: normal;
+        font-display: swap;
+      }@font-face {
+        font-family: 'Inter';
+        src: url('https://assets.swipepages.com/fonts/inter/semibold/Inter-SemiBold.woff') format('woff'), url('https://assets.swipepages.com/fonts/inter/semibold/Inter-SemiBold.eot?#iefix') format('embedded-opentype'),  url('https://assets.swipepages.com/fonts/inter/semibold/Inter-SemiBold.otf')  format('opentype'),
+                   url('https://assets.swipepages.com/fonts/inter/semibold/Inter-SemiBold.ttf')  format('truetype'), url('https://assets.swipepages.com/fonts/inter/semibold/Inter-SemiBold.svg#Inter-SemiBold') format('svg');
+        font-weight: 600;
+        font-style: normal;
+        font-display: swap;
+      }@font-face {
+        font-family: 'Inter';
+        src: url('https://assets.swipepages.com/fonts/inter/bold/Inter-Bold.woff') format('woff'), url('https://assets.swipepages.com/fonts/inter/bold/Inter-Bold.eot?#iefix') format('embedded-opentype'),  url('https://assets.swipepages.com/fonts/inter/bold/Inter-Bold.otf')  format('opentype'),
+                   url('https://assets.swipepages.com/fonts/inter/bold/Inter-Bold.ttf')  format('truetype'), url('https://assets.swipepages.com/fonts/inter/bold/Inter-Bold.svg#Inter-Blod') format('svg');
+        font-weight: 700;
+        font-style: normal;
+        font-display: swap;
+      }@font-face {
+        font-family: 'Inter';
+        src: url('https://assets.swipepages.com/fonts/inter/medium/Inter-Medium.woff') format('woff'), url('https://assets.swipepages.com/fonts/inter/medium/Inter-Medium.eot?#iefix') format('embedded-opentype'),  url('https://assets.swipepages.com/fonts/inter/medium/Inter-Medium.otf')  format('opentype'),
+                   url('https://assets.swipepages.com/fonts/inter/medium/Inter-Medium.ttf')  format('truetype'), url('https://assets.swipepages.com/fonts/inter/medium/Inter-Medium.svg#Inter-Medium') format('svg');
+        font-weight: 500;
+        font-style: normal;
+        font-display: swap;
+      }
+#toast-container>.toast-info {
+    background-image: none !important;
+    background-color: #000;
+}
+#toast-container>div {
+    padding: 20px;
+}
+#toast-container>div:hover {
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    opacity: 1;
+    cursor: pointer;
+}
+.toast-close-button {
+    line-height: 0;
+    right: -.5em;
+    top: -0.5em;
+    opacity: 0.8;
+}
+.toast-close-button svg {
+    width: 15px;
+    height: 15px;
+    fill: currentColor;
+}
+.toast-close-button:focus, .toast-close-button:hover {
+    opacity: 1;
+    color: #fff;
+}
+
+/*-----------------  Modal commande  ---------------------------*/
+
+#login-modal{
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.6);
+    z-index: 100;
+    display: none;
+    justify-content: center;
+    align-items: center;
+  }
+  .modal{
+    background: #e6ecf0;
+    padding: 10px 0px 20px 0;
+    border-radius: 10px;
+    width: 450px;
+    text-align: center;
+  }
+  .top-form .close-modal{
+  cursor: pointer;
+  padding: 0 20px;
+  font-size: 20px;
+  }
+  .login-form h2{
+    letter-spacing: 2px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+  }
+  .login-form form input{
+    width: 75%;
+    margin-bottom: 20px;
+    padding: 12px 12px;
+    box-sizing: border-box;
+    border: 1px solid #d0d5d8;
+    border-radius: 3px;
+  }
+  .login-form button{
+    padding: 12px 0;
+    width: 75%;
+    background: #1B68E9;
+    border: 0;
+    border-radius: 3px;
+    color: white;
+    margin: 10px auto;
+    cursor: pointer;
+  
+  }
+  #contact-modal{
+  
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.6);
+    z-index: 100;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  .modal2{
+    background: #e6ecf0;
+    padding: 10px 0px 20px 0;
+    border-radius: 10px;
+    width: 1000px;
+    text-align: center;
+  }
+
